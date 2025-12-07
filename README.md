@@ -119,8 +119,3 @@ Linux SysAdmin | DevOps Engineer | Infrastructure Automation Enthusiast
 ## 📄 License
 
 This project is open-source and licensed under the **MIT License**.
-
-```
-
-Do you want me to make that version too?
-```
